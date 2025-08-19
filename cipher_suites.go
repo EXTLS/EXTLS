@@ -19,7 +19,7 @@ import (
 
 	"golang.org/x/crypto/chacha20poly1305"
 
-	"github.com/GoTLS/Go/internal/cpu"
+	"github.com/EXTLS/EXTLS/internal/cpu"
 )
 
 // CipherSuite is a TLS cipher suite. Note that most functions in this package
